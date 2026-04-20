@@ -60,7 +60,7 @@ jupyter notebook notebooks/analysis.ipynb
 | Esmahan Didinir | Data Analyst | [LinkedIn](https://www.linkedin.com/in/esmahan-didinir/) |
 | Sedef Çakmak | Data Analyst | [LinkedIn](https://www.linkedin.com/in/sedef-cakmak/) |
 
-*Special thanks to our instructor **Müşerref Özkan** for her mentorship throughout the program.*
+*Special thanks to our instructor **[Müşerref Özkan](https://www.linkedin.com/in/muserrefozkan/)** for her mentorship throughout the program.*
 ---
 
 *W-code 2.0 · Ford Otosan Gelecek Hayalim × Kodluyoruz · Team Coda Nova*
