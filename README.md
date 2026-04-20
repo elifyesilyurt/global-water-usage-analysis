@@ -32,7 +32,7 @@ The project was recognized as the **Selected Project** at the W-code 2.0 closing
 All data originates from official **FAO AQUASTAT** statistics, covering global water usage trends between 2019 and 2022.
 
 - **Official database:** [FAO AQUASTAT Main Database](https://www.fao.org/aquastat/en/databases/maindatabase)
-- **Processed dataset:** [AQUASTAT Dissemination System – Data.csv](https://github.com/elifyesilyurt/global-water-usage-analysis/blob/main/AQUASTAT%20Dissemination%20System.xlsx%20-%20Data.csv)
+- **Processed dataset:** [AQUASTAT Dissemination System.csv](https://github.com/elifyesilyurt/global-water-usage-analysis/blob/main/AQUASTAT%20Dissemination%20System.csv)
 
 ## Project Structure
 global-water-usage-analysis/
