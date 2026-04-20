@@ -48,7 +48,7 @@ global-water-usage-analysis/
 git clone https://github.com/elifyesilyurt/global-water-usage-analysis
 cd global-water-usage-analysis
 pip install -r requirements.txt
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook Global_Water_Usage_Analysis.ipynb
 ```
 
 ## Team
