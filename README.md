@@ -1,7 +1,5 @@
 # Global Water Usage Analysis
 
-> Data-driven insights into global freshwater withdrawal trends by continent and sector (2019–2022)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![FAO Data](https://img.shields.io/badge/Data-FAO%20AQUASTAT-green)
@@ -14,7 +12,7 @@ This project was developed as the graduation capstone for the **W-code 2.0** pro
 The project was recognized as the **Selected Project** at the W-code 2.0 closing ceremony.
 
 ## Key Findings
-
+- **Data-driven insights into global freshwater withdrawal trends by continent and sector (2019–2022)
 - **Global distribution:** Agriculture dominates freshwater withdrawal worldwide, with significant regional variation in sectoral share.
 - **Turkey breakdown:** Comparative analysis of agricultural, municipal, and industrial usage ratios within Türkiye.
 - **Regional contrasts:** East Asia (agriculture-heavy) vs. North America (industry-heavy) vs. Europe (balanced distribution).
@@ -42,12 +40,16 @@ global-water-usage-analysis/
 ├── Global_Water_Usage_Analysis.ipynb
 ├── requirements.txt
 └── README.md
+
 ## Getting Started
 
 ```bash
 git clone https://github.com/elifyesilyurt/global-water-usage-analysis
+
 cd global-water-usage-analysis
+
 pip install -r requirements.txt
+
 jupyter notebook Global_Water_Usage_Analysis.ipynb
 ```
 
