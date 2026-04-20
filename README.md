@@ -51,10 +51,16 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 ```
 
-## Acknowledgements
+## Team
 
-Thanks to instructor **Müşerref Özkan** for her mentorship throughout the program, and to teammates **Ahsen Öztürk**, **Esmahan Didinir**, and **Sedef Çakmak** for their collaboration.
+| Name | Role | LinkedIn |
+|------|------|----------|
+| Elif Yeşilyurt | Data Analyst | [LinkedIn](https://www.linkedin.com/in/elifyesilyurtt/) |
+| Ahsen Öztürk | Data Analyst | [LinkedIn](https://www.linkedin.com/in/ahsen-ozturk/) |
+| Esmahan Didinir | Data Analyst | [LinkedIn](https://www.linkedin.com/in/esmahan-didinir/) |
+| Sedef Çakmak | Data Analyst | [LinkedIn](https://www.linkedin.com/in/sedef-cakmak/) |
 
+*Special thanks to our instructor **Müşerref Özkan** for her mentorship throughout the program.*
 ---
 
 *W-code 2.0 · Ford Otosan Gelecek Hayalim × Kodluyoruz · Team Coda Nova*
