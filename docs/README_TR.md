@@ -50,7 +50,7 @@ Bu proje, Ford Otosan "Gelecek Hayalim" ile Kodluyoruz iş birliğiyle yürütü
 | Isı haritası | Seaborn | Ülke bazında kişi başı kullanım örüntüleri |
 
 Tüm görselleştirmeleri incelemek için not defterini açın:
-👉 [`Global_Water_Usage_Analysis.ipynb`](Global_Water_Usage_Analysis.ipynb)
+👉 [`Global_Water_Usage_Analysis.ipynb`](../Global_Water_Usage_Analysis.ipynb)
 
 ---
 
@@ -142,4 +142,4 @@ MIT © 2026 Coda Nova — Elif Yeşilyurt, Ahsen Öztürk, Esmahan Didinir, Sede
 
 ---
 
-> 🇬🇧 [English Documentation](README.md)
+> 🇬🇧 [English Documentation](../README.md)
