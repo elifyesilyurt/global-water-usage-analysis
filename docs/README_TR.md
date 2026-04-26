@@ -76,11 +76,15 @@ Tüm veriler, 2019–2022 yılları arasındaki küresel su kullanımını kapsa
 ---
 
 ## Proje Yapısı
+
+```
 global-water-usage-analysis/
 ├── AQUASTAT Dissemination System.csv   # FAO'dan alınan ham veri seti
 ├── Global_Water_Usage_Analysis.ipynb   # Ana analiz not defteri
 ├── requirements.txt                    # Python bağımlılıkları
 └── README.md
+```
+
 ---
 
 ## Başlarken
@@ -105,12 +109,15 @@ jupyter notebook Global_Water_Usage_Analysis.ipynb
 ```
 
 ### Bağımlılıklar
+
+```
 pandas
 numpy
 matplotlib
 seaborn
 plotly
 jupyter
+```
 
 ---
 
